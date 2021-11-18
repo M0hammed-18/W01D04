@@ -1,0 +1,34 @@
+header{
+    text-align: center;
+    margin: auto 350px;
+}
+.boxs{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center;
+    width: 90%;   
+}
+h2{
+    text-align: center;
+}
+.box{
+    list-style: none;
+    display: block;
+    margin: 0 40px;
+    border: rgb(192, 190, 190) solid 0.5px ;
+    border-top: orange solid 2px;
+    width: 40%;
+}
+hr{
+    width: 80px;
+    color: orange;
+    border: solid 2px;
+   
+
+}
+.siz{
+    width: 20%;
+    margin: 0 130px;
+    
+}

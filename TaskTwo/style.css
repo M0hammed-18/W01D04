@@ -1,0 +1,48 @@
+body{
+    background-image: url(./tree.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+header{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content:space-around;
+    align-items: flex-end;
+    background-color: rgb(240, 235, 229);
+}
+span{
+    color: chocolate;
+}
+ul{
+    display: block;
+    justify-content:space-between;
+    align-items: flex-end;
+    list-style: none;
+}
+li{
+    display: inline;
+    margin: 0 7px;
+    font-size: 30px; 
+
+}
+li:first-child{
+    color: chocolate;
+}
+.tit{
+    margin-top: 190px;
+    margin-left: 50px;
+
+}
+.tit1{
+    margin-top: 10px;
+    margin-left: 100px;
+
+}
+button{
+    background-color: black;
+    color: blanchedalmond;
+    border: none;
+    margin: 0 100px;
+    font-size: 20px;
+}
